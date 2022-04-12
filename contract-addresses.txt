@@ -2,3 +2,6 @@
 
 whitelist:
 0x0b7488006Fd86857A2bf91a5A45d921a568279D4
+
+new nft contract:
+0x4Cff415d919C9d3d182f6706adf94B96cC463aE8
